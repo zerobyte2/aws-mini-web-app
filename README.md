@@ -52,9 +52,7 @@ This project demonstrates a complete microservices deployment on AWS, featuring 
     ├── infrastructure/
     │ └── user-data.sh # EC2 bootstrap script
     ├── docs/
-    │ ├── architecture.md # Detailed architecture
-    │ ├── setup-guide.md # Step-by-step setup
-    │ └── troubleshooting.md # Common issues & solutions
+    │ └── EXPERIENCE.md
     ├── Dockerfile # Container configuration
     ├── .gitignore # Git ignore rules
     └── README.md # Project documentation
